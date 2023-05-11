@@ -1,0 +1,20 @@
+{
+    "conversas": [
+        {
+            "mensagens": ["olá", "oi"],
+            "respostas": "Olá, sou o robô de atendimento do IFBA, como posso ajudar?"
+        },
+        {
+            "mensagens": ["bom dia"],
+            "respostas":"Bom dia, sou o robô de atendimento do IFBA, como posso ajudar?"
+        },
+        {
+            "mensagens": ["boa tarde"],
+            "respostas":"Boa tarde, sou o robô de atendimento do IFBA, como posso ajudar?"
+        },
+        {
+            "mensagens": ["boa noite"],
+            "respostas":"Boa noite, sou o robô de atendimento do IFBA, como posso ajudar?"
+        }
+    ]
+}

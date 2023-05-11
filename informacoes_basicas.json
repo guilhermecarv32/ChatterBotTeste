@@ -1,0 +1,16 @@
+{
+    "conversas": [
+        {
+            "mensagens": ["onde fica o ifba?", "onde o ifba é?", "onde o ifba está localizado?", "o ifba fica aonde?", "onde vocês estão localizados?", "onde vocês funcionam?"],
+            "respostas": "O IFBA está localizado na Av. Sérgio Vieira de Mello, 3150, Zabelê."
+        },
+        {
+            "mensagens": ["qual o horário de funcionamento do ifba?", "o ifba funciona que horas?", "vocês ficam abertos até que horas?", "ai fica aberto até que horas?", "está aberto agora?"],
+            "respostas": "Os cursos do IFBA funcionam pela manhã, tarde e noite. Os setores administrativos funcionam pela manhã e pela tarde."
+        },
+        {
+            "mensagens": ["quais cursos tem no ifba?", "que cursos o ifba oferece?"],
+            "respostas": "O IFBA oferece vários cursos. Consulte o portal."
+        }
+    ]
+}
